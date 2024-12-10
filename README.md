@@ -1,3 +1,7 @@
+## Ant Colony Optimization: AntNet
+
+# Max Demarr, Brendan Oloughlin, Justin Fowler
+
 ## Getting specific on our project
 
 The [video that Max shared](https://www.youtube.com/watch?v=X-iSQQgOd1A&feature=youtu.be) on Ant Colonization looked cool, so I did some further research.
