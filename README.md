@@ -9,5 +9,7 @@ This project works with software packages developed in the field of Ant Colony O
 
 ## Sources
 [Coding Adventure: Ant and Slime Simulations](https://www.youtube.com/watch?v=X-iSQQgOd1A&feature=youtu.be)
+
 [Ant Colony Optimization Book](https://web2.qatar.cmu.edu/~gdicaro/15382/additional/aco-book.pdf)
+
 [ACO Software Packages](https://www.aco-metaheuristic.org/aco-code/)
